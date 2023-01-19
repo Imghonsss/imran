@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">AutoRemind</string>
+
+    <string-array name="brand_arrays">
+        <item>Proton</item>
+        <item>Perodua</item>
+        <item>Hyundai</item>
+        <item>BMW</item>
+    </string-array>
+
+    <string-array name="model_arrays">
+        <item>Sedan</item>
+        <item>SUV</item>
+        <item>MPV</item>
+        <item>Compact</item>
+    </string-array>
+
+    <string-array name="cc_arrays">
+        <item>1.0 L</item>
+        <item>1.5 L</item>
+        <item>2.0 L</item>
+        <item>2.5 L</item>
+    </string-array>
+
+    <string-array name="class_arrays">
+        <item>D (Manual Car)</item>
+        <item>DA (Auto Car)</item>
+    </string-array>
+
+    <string-array name="insurance_arrays">
+        <item>Allianz</item>
+        <item>Manulife</item>
+        <item>Prudential</item>
+        <item>Zurich</item>
+        <item>Etiqa</item>
+    </string-array>
+
+    <string-array name="service_arrays">
+        <item>Service Activity</item>
+        <item>Insurance Activity</item>
+        <item>License Activity</item>
+    </string-array>
+
+
+    <string name="title_activity_edit_insurance">Edit_Insurance</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+
+</resources>
